@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a325cc58-3973-4456-8fd9-f6d3e751d2ce"
+      }
+    },
+    "owner": "blesstheboy"
   }
 }
